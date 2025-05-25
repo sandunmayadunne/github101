@@ -1,7 +1,7 @@
 this is a bad 
 
-ajsdljalds
+I added new same good
+line 
 
-asjidja
-asdjaisd
-adskjaposd
+I am the good developer who worked correctly
+
